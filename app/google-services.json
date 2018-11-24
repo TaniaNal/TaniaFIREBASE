@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "198030022410",
+    "firebase_url": "https://natania-befa1.firebaseio.com",
+    "project_id": "natania-befa1",
+    "storage_bucket": "natania-befa1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:198030022410:android:10400547a1ad8765",
+        "android_client_info": {
+          "package_name": "com.example.tatyana.natania"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "198030022410-i0v28msgcdm4l929rkt3dbk3plhutcad.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.tatyana.natania",
+            "certificate_hash": "11fc16deeeacb6f276eafc31336019a6ece03f78"
+          }
+        },
+        {
+          "client_id": "198030022410-hsht24bok25c2b6pmehtbphjvfps0hkn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFNnn9Px7sv7O3kzXVMIwu8D9E9q2P4wQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "198030022410-hsht24bok25c2b6pmehtbphjvfps0hkn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
